@@ -1,0 +1,13 @@
+/home/oleg/Projects/GZipTest/obj/Debug/netcoreapp3.1/GZipTest.csprojAssemblyReference.cache
+/home/oleg/Projects/GZipTest/obj/Debug/netcoreapp3.1/GZipTest.AssemblyInfoInputs.cache
+/home/oleg/Projects/GZipTest/obj/Debug/netcoreapp3.1/GZipTest.AssemblyInfo.cs
+/home/oleg/Projects/GZipTest/obj/Debug/netcoreapp3.1/GZipTest.csproj.CoreCompileInputs.cache
+/home/oleg/Projects/GZipTest/bin/Debug/netcoreapp3.1/GZipTest
+/home/oleg/Projects/GZipTest/bin/Debug/netcoreapp3.1/GZipTest.deps.json
+/home/oleg/Projects/GZipTest/bin/Debug/netcoreapp3.1/GZipTest.runtimeconfig.json
+/home/oleg/Projects/GZipTest/bin/Debug/netcoreapp3.1/GZipTest.runtimeconfig.dev.json
+/home/oleg/Projects/GZipTest/bin/Debug/netcoreapp3.1/GZipTest.dll
+/home/oleg/Projects/GZipTest/bin/Debug/netcoreapp3.1/GZipTest.pdb
+/home/oleg/Projects/GZipTest/obj/Debug/netcoreapp3.1/GZipTest.dll
+/home/oleg/Projects/GZipTest/obj/Debug/netcoreapp3.1/GZipTest.pdb
+/home/oleg/Projects/GZipTest/obj/Debug/netcoreapp3.1/GZipTest.genruntimeconfig.cache
